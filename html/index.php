@@ -6,4 +6,11 @@ try {
 } catch (PDOException $e) {
     exit($e->getMessage().PHP_EOL);
 }
-echo('ok'.PHP_EOL);
+echo('ok');
+
+?>
+
+<?php 
+
+echo 'test message';
+?>
