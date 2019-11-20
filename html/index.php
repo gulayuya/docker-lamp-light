@@ -13,4 +13,5 @@ echo('ok');
 <?php 
 
 echo 'test message';
+echo 'test message2';
 ?>
