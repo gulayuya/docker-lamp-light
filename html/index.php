@@ -14,4 +14,8 @@ echo('ok');
 
 echo 'test message';
 echo 'test message2';
+echo 'Archer';
+
+//↓これでも読んどけ
+//https://qiita.com/shh-nkmr/items/fde133cbdfa5f0092be1
 ?>
